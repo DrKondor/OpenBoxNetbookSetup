@@ -1,4 +1,4 @@
 OpenBoxNetbookSetup
 ===================
 
-My personal tweaks to the OpenBox WM -- specifically for my netbook
+My personal tweaks to the OpenBox WM -- specifically for the netbook
