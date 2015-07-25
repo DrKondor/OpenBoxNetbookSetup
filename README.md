@@ -6,3 +6,5 @@ My fave tweaks to the OpenBox WM -- specifically for the netbook -- with a focus
 I also find variable transparency really handy for managing windows on a small netbook screen, so that's included via transset-df (http://forchheimer.se/transset-df/) using Alt+Scroll.
 
 Have Fun!
+
+7-25-2015 changing a few things around to use these settings with the bunsenlabs project, (github.com/bunsenlabs) based on debian jessie.
